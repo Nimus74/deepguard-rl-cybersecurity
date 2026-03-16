@@ -9,6 +9,8 @@
 
 > Simulazione di scenari di attacco e difesa in reti informatiche sanitarie tramite algoritmi di Reinforcement Learning. Progetto sviluppato per **DeepGuard Inc.** nell'ambito della sicurezza informatica per il settore healthcare.
 
+![Project Overview](results/comparison_reward.png)
+
 ---
 
 ## 📋 Indice
