@@ -28,6 +28,20 @@ Experiments are conducted in the **gym-idsgame** environment under different att
 
 ---
 
+## Key Results
+
+Main findings from the experiments:
+
+• Deterministic attackers (maximal_attack) are easier to learn than stochastic attackers.
+
+• SARSA performs reasonably well in small environments but shows degeneracy as the state space grows.
+
+• DDQN scales better with environment complexity thanks to neural generalization.
+
+• Correct evaluation of the hack_rate metric requires episode-based computation using the reward signal.
+
+---
+
 ## Experimental Setup
 
 The experiments were performed using the `gym-idsgame` environment, which simulates attacker–defender interactions in simplified network infrastructures.
